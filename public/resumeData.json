@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name":"Kin Analytics",
+    "occupation":"Analytics and web development",
+    "description":"Kin Analytics offers analytical consulting services for all types of companies, organizations, and enterprises around the world, helping them innovate, grow, and evolve. Companies that learn how to best generate and analyze their data will survive, while those which innovate in this practice will thrive. ",
+    "image":"pic-about.jpg",
+    "history":"Our story begins with a couple of guys who liked sports and computers. They always dreamed of some way to get ahead of time and determine what will happen before it happens, they investigated about the machie learning and developed a successfull algorithm to hit the correct scores based on past events. That is how Kin Analytics born.",
+    "email": "cris_ldu96@yahoo.es",
+    "phone": "(+593) 984-66-8664",
+    "address":{
+      "street":"12 de Octubre",
+      "city":"Quito",
+      "state":"Pichincha",
+      "zip": "170140"
+    },
+    "website": "https://www.kinanalytics.com/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/kinanalytics",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/strategy/kin-analytics/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/kinanalytics/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://stackoverflow.com/",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/crisldu96",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Our commit is make that the things sports for the well'being of your strategy",
+    "banking":[
+      {
+        "field":"Consulting for IFRS 9 / CECL for an end to end solution",
+        "details":"Audit and diagnostic",
+        "description":"Our procedure is designed to review the services of financial institutions to ensure they are in compliance with laws and industry standards. An accounting specialist known as a bank auditor carries out the review. Bank or credit union audits can be internal audits or external audits."
+      },
+      {
+        "field":"Automated Credit Scoring",
+        "details":"Computer Systems Technology",
+        "description": "Kin Analytics offers systems capable of handling the entire credit decisioning process for any financial institution, from the moment of loan request, through disbursement, and even post disbursement activities. We offer the complete package in terms of credit scoring solutions, including a Front Office tool and Credit Scoring Engine from our partner strategy Cregora."
+      }
+    ],
+    "sports":[
+      {
+        "strategy":"Statistical Player Evaluation and Projections",
+        "title": "Software designed for evaluation",
+        "description": "We choose data of the players, and we proced analyzed these data to determine for each possession, the two five-man units on court, which unit was home (or away), which unit had possession of the ball, and the number of points scored"
+      },
+      {
+        "strategy":"Rival Analysis: Assessment and Preparation Studies",
+        "title":"Consultoring and experts",
+        "description": "We offer strategic management to discover the strengths and weaknesses of current and potential competitors. This analysis provides both an offensive and defensive strategic context to identify opportunities and threats."
+      },
+      {
+        "strategy":"Team and Player Performance Monitoring",
+        "title":"Technology to monitor players",
+        "description": "We provide performance monitoring in analytics, regularly verifying and tracking how well and how consistently your players are performing."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "description":"We develop apications easy to use, powerful, scalable and focused on business intelligence.",
+        "image":"python.png"
+      },
+      {
+        "name":"Java",
+        "description":"We can help to improve your business trougth desktop aplications.",
+        "image":"java.jpg"
+      },
+      {
+        "name":"React Js",
+        "description":"We seek to get more clients around the world and the best way is using Web applications.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"Give usage and sense to your data. It could give you more beneficts, if you know how to use it.",
+        "image":"mongo.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "clients": [
+      {
+        "title":"Independiente del valle",
+        "category":"Soccer team from Ecuador",
+        "image":"IDV.jpg",
+        "url":"https://www.independientedelvalle.com/"
+      },
+      {
+        "title":"Dallas FC",
+        "category":"Soccer team from US",
+        "image":"fcdallas.png",
+        "url":"https://www.fcdallas.com/"
+      },
+      {
+        "title":"Liga pro",
+        "category":"Major soccer league of Ecuador",
+        "image":"Ligapro.jpg",
+        "url":"https://www.ligapro.ec/"
+      },
+      {
+        "title":"Palmeiras",
+        "category":"Soccer team from Brazil",
+        "image":"palmeiras.png",
+        "url":"https://www.palmeiras.com.br/"
+      },
+      {
+        "title":"Atlec. Paranaense",
+        "category":"Soccer team from Ecuador",
+        "image":"paranaense.png",
+        "url":"https://www.athletico.com.br/"
+      },
+      {
+        "title":"Rabo Bank",
+        "category":"Financial Institution",
+        "image":"rabobank.jpg",
+        "url":"https://www.rabobank.com/en/home/index.html?languageDoesNotExists=es"
+      },
+      {
+        "title":"Ya esta .com",
+        "category":"Web store from Ecuador",
+        "image":"yaesta.png",
+        "url":"https://www.yaesta.com/"
+      },
+      {
+        "title":"DFCU Bank",
+        "category":"Bank",
+        "image":"dfcu.png",
+        "url":"https://www.dfcugroup.com/"
+      }
+    ]
+  }
+}
